@@ -1,0 +1,1235 @@
+"id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
+"in-b0058f03fcad5a61","indeed","https://www.indeed.com/viewjob?jk=b0058f03fcad5a61","https://jobs.smartrecruiters.com/PaloAltoNetworks2/744000093326585-senior-ui-software-engineer-cortex-","Senior UI Software Engineer (Cortex)","Palo Alto Networks","Santa Clara, CA, US","2025-11-12","fulltime","direct_data","yearly",160000.0,220000.0,"USD",False,"","","","accommodations@paloaltonetworks.com","**Company Description**
+
+**Our Mission**
+
+At Palo Alto Networks® everything starts and ends with our mission:
+
+Being the cybersecurity partner of choice, protecting our digital way of life.  
+Our vision is a world where each day is safer and more secure than the one before. We are a company built on the foundation of challenging and disrupting the way things are done, and we’re looking for innovators who are as committed to shaping the future of cybersecurity as we are.
+
+**Who We Are**
+
+We take our mission of protecting the digital way of life seriously. We are relentless in protecting our customers and we believe that the unique ideas of every member of our team contributes to our collective success. Our values were crowdsourced by employees and are brought to life through each of us everyday - from disruptive innovation and collaboration, to execution. From showing up for each other with integrity to creating an environment where we all feel included.
+
+As a member of our team, you will be shaping the future of cybersecurity. We work fast, value ongoing learning, and we respect each employee as a unique individual. Knowing we all have different needs, our development and personal wellbeing programs are designed to give you choice in how you are supported. This includes our FLEXBenefits wellbeing spending account with over 1,000 eligible items selected by employees, our mental and financial health resources, and our personalized learning opportunities - just to name a few!
+
+At Palo Alto Networks, we believe in the power of collaboration and value in-person interactions. This is why our employees generally work full time from our office with flexibility offered where needed. This setup fosters casual conversations, problem-solving, and trusted relationships. Our goal is to create an environment where we all win with precision.
+
+ **Job Description**
+
+**Your Career**
+
+The Cortex Threat Intelligence team is growing, and we’re looking for a Senior UI Software Engineer to join our team. This team builds the systems that transform raw signals into trusted, timely intelligence for security teams. Your work will shape a platform that delivers clear, actionable insights to help prevent attacks and accelerate response.
+
+As a Senior UI Software Engineer on this team, you will contribute to the entire lifecycle of our user experiences — from front-end architecture and implementation to testing, performance, accessibility, and release. You will evolve our design system and reusable component library, build interactive dashboards and data visualizations, and integrate with APIs that convert raw signals into trustworthy intelligence across Cortex, collaborating closely with design and backend partners to deliver intuitive, high-quality experiences.
+
+**Your Impact**
+
+* Build features that delight customers and solve their problems.
+* Work in a dynamic, highly energized team that delivers feature-rich applications.
+* Collaborate with Product, Engineering, UX, QA, and DevOps teams to ensure accurate product delivery.
+* Take part in architecture strategy sessions—work with your colleagues to design solutions that accommodate the requirements of the various modules across Cortex.
+* Collaborate with your team to solve problems, reduce technical debt, and evolve development practices.
+* Drive technical best practices and evangelize new technologies within the engineering organization.
+* Collaborate with other engineers and ensure that your team delivers high-quality output.
+* Take ownership of projects, drive them to completion, and support them in production.
+
+ **Qualifications**
+
+**Your Experience**
+
+We're looking for a seasoned engineer with:
+
+* 5+ years of professional experience in software engineering, with a proven track record of designing, developing, deploying, and supporting complex, scalable software systems
+* Proficiency in Angular or React (preferably Angular)
+* Delivered high-quality UI features using TypeScript, HTML, and CSS with the Angular ecosystem (Angular CLI, RxJS, Angular Material; NgRx or similar state management)
+* Experience in building well-tested Angular code (unit/integration/e2e) using Jasmine/Karma, Jest, and Cypress/Playwright
+* Experience with version control software (Git)
+* Experience with REST APIs and asynchronous operations in Angular (HttpClient, Observables) or React (effects, fetch)
+* Understanding of cross-browser compatibility issues and ways to work around them
+* Proven experience driving design and implementation of technical solutions in the face of ambiguity—we will ask you about this
+* Ability to lead across research, design, prototyping, and implementation phases
+* Proven technical team leadership and interest in mentoring other engineers in order to contribute to the technical growth of the team
+* Nice To Haves:
+* Experience in Threat Intelligence.
+* Experience in building Cybersecurity products.
+
+ **Additional Information**
+
+**The Team**
+
+Cortex Threat Intelligence delivers the clarity security teams need in moments that matter. Your work will transform ambiguity into action, helping customers detect earlier and respond faster.
+
+**Compensation Disclosure**
+
+The compensation offered for this position will depend on qualifications, experience, and work location. For candidates who receive an offer at the posted level, the starting base salary (for non-sales roles) or base salary + commission target (for sales/commissioned roles) is expected to be between $160000 - $220000/YR. The offered compensation may also include restricted stock units and a bonus. A description of our employee benefits may be found here.
+
+Palo Alto Networks is an equal opportunity employer. We celebrate diversity in our workplace, and all qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or other legally protected characteristics.
+
+All your information will be kept confidential according to EEO guidelines.
+
+**Our Commitment**  
+  
+We’re problem solvers that take risks and challenge cybersecurity’s status quo. It’s simple: we can’t accomplish our mission without diverse teams innovating, together.
+
+We are committed to providing reasonable accommodations for all qualified individuals with a disability. If you require assistance or accommodation due to a disability or special need, please contact us at accommodations@paloaltonetworks.com.
+
+Palo Alto Networks is an equal opportunity employer. We celebrate diversity in our workplace, and all qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or other legally protected characteristics.
+
+All your information will be kept confidential according to EEO guidelines.
+
+Is role eligible for Immigration Sponsorship?: Yes","","https://www.indeed.com/cmp/Palo-Alto-Networks","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/0faf192cd5b5f732d5b8b8ee9d263081","https://jobs.paloaltonetworks.com/","Santa Clara, CA","10,000+","$5B to $10B (USD)","Your career will have a global impact: one that protects our way of life in the digital age by preventing successful cyberattacks.","","","","","",""
+"in-4e412c7e7b892ff3","indeed","https://www.indeed.com/viewjob?jk=4e412c7e7b892ff3","https://grnh.se/l80aluhz1us","Engineering Co-Op","QuinStreet","Foster City, CA, US","2025-11-12","fulltime, internship","","hourly","","","USD",False,"","","","","**Powering Performance Marketplaces in Digital Media**
+
+QuinStreet is a pioneer in powering decentralized online **marketplaces that match searchers and ""research and compare"" consumers with brands**. We run these virtual- and private-label marketplaces in one of the nation's largest media networks.
+
+Our industry leading segmentation and AI-driven **matching technologies help consumers find better solutions and brands faster.** They allow brands to target and reach in-market customer prospects with pinpoint segment-by-segment accuracy, and to pay only for performance results.
+
+Our campaign-results-driven matching decision engines and optimization algorithms are built from over 20 years and billions of dollars of online media experience.
+
+We believe in:
+
+* The direct measurability of digital media.
+* Performance marketing. (We pioneered it.)
+* The advantages of technology.
+
+We bring all this together to deliver truly great results for consumers and brands in the world's biggest channel.
+
+  
+
+**Job Category**
+
+QuinStreet is offering a paid, full-time co-op for Computer Engineering students. You will work 40 hours per week in our Foster City office from Dec 2025 - March 2026. Since this will be a full-time co-op, you will need to pause classes during this time and will earn co-op credit during this time. You will be working as a team to build a new application within our Financial Services team, where you'll play a key role in development and testing the first version of this new platform, working alongside other interns and under the mentorship of experienced senior developers. This is an exciting opportunity to develop a first gen and scalable application for an enterprise level organization.
+
+  
+
+**Responsibilities**
+
+* Collaborate with a team of interns and senior engineers to design, develop, and maintain core features of our platform
+* Write clean, scalable, and well-documented code across front-end and back-end systems
+* Participate in code reviews, sprint planning, and team stand-ups
+* Contribute to quality assurance efforts through functional testing and debugging
+
+**Requirements**
+
+* Currently pursuing a degree in Computer Science, Software Engineering, or a related field
+* Strong understanding of software development fundamentals
+* Familiarity with web development technologies (e.g., HTML, CSS, JavaScript, React, Vue.js, Java, .Net, PHP, Python)
+* Interest or experience in testing frameworks and CI/CD tools
+* Ability to integrate with third-party APIs and troubleshoot integration issues
+* Strong collaboration skills and a willingness to learn from peers and mentors
+* Passion for building user-centric products with clean, efficient code
+
+  
+
+The expected hourly range for this position is $30 hr USD. This hourly range is an estimate, and the actual hourly rate may vary based on the Company's compensation practices. The hourly rate may be adjusted based on applicant's geographic location. This position is eligible to participate in the Company's standard employee benefits programs, which currently include health care benefits.
+
+  
+
+#LI-ONSITE
+
+  
+
+QuinStreet is an equal opportunity employer. We do not discriminate on the basis of race, color, religion, national origin, pregnancy status, sex, age, marital status, disability, sexual orientation, gender identity or any other characteristics protected by law.
+
+Please see QuinStreet's Employee Privacy Notice here.","","https://www.indeed.com/cmp/Quinstreet-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/64ca369f9601d3eb3b292dbaafe642eb","https://www.quinstreet.com","950 Tower Lane, Suite 600
+Foster City, CA 94404","501 to 1,000","$100M to $500M (USD)","","","","","","",""
+"in-e2b564a8d3cb7ebf","indeed","https://www.indeed.com/viewjob?jk=e2b564a8d3cb7ebf","https://careers.gene.com/us/en/job/GENEUS202511129255EXTERNALENUS/Principal-ADS-Programmer","Principal ADS Programmer","Genentech","San Francisco, CA, US","2025-11-12","fulltime","direct_data","yearly",149300.0,277300.0,"USD",False,"","","","","### **The Position**
+
+*A healthier future. It’s what drives us to innovate. To continuously advance science and ensure everyone has access to the healthcare they need today and for generations to come. Creating a world where we all have more time with the people we love. That’s what makes us Roche.*number of openings: 2
+
+This role is in Analytical Data Science, a core function within Product Development Data Sciences (PDD) that provides strategic leadership and scientific rigor across Development at Roche. PDD Analytical Data Science teams are mobilized across the portfolio to generate data-driven insights, identify opportunities for scale, and implement impactful solutions.
+
+PDD Analytical Data Science is recognized as a leading hub for top industry talent, operating as an agile workforce to deliver regulatory commitments across the portfolio. We identify, influence, and adopt industry-leading digital and automation solutions, develop analytical approaches to support exploratory analyses, and align statistical programming practices across both early- and late-stage clinical development.
+
+**The Opportunity**
+
+The Analytical Data Science Programmer is a key contributor to the clinical study team, responsible for transforming statistical analysis plans into high-quality, traceable programming deliverables. This includes both static and dynamic outputs, such as tables, listings, figures, and interactive data visualizations or dashboards. The role involves creating and validating datasets in accordance with Study Data Tabulation Model and Analysis Data Model standards, ensuring compliance with regulatory requirements and Roche standards. In addition to supporting regulatory submissions, the ADS Programmer plays a critical role in generating data insights through platforms such as the Insight Engine, enabling real-time exploration and interpretation of diverse clinical and exploratory data. This role contributes to a modern, insight-driven development environment by facilitating robust, timely, and decision-enabling analytics across clinical programs.
+
+* You lead the execution of statistical programming activities for multiple studies or regulatory submissions, as well as exploratory and translational research efforts, ensuring the delivery of validated Study Data Tabulation Model (SDTM) datasets, Analysis Data Model (ADaM) datasets, and tables, listings, and figures (TLFs) that meet quality and compliance standards
+* You drive integration and analysis of diverse data types beyond regulatory deliverables, including biomarker, imaging, and real-world data, to enable deeper scientific insights
+* You collaborate on cross-disease area exploratory analyses and contribute to hypothesis generation and decision-making through data-driven insights
+* You lead the development of data insights engines and analytical applications that visualize complex datasets, enabling dynamic exploration by scientific and clinical stakeholders
+
+**Who you are:**
+
+* You hold a Bachelor’s or Master’s degree in Statistics, Computer Science, Mathematics, Life Sciences, or a related field
+* You have a minimum of 8 years of experience in statistical programming in a clinical development setting, or an advanced degree with 6 years of equivalent work experience
+* You have a proven ability to lead programming efforts across studies or assets
+* You bring expertise across multiple, modern programming languages (e.g., R, Python) and review/visualization tools (e.g., SAS)
+* You have strong knowledge of Clinical Data Interchange Standards Consortium (CDISC) standards (e.g., SDTM and ADaM) and regulatory requirements
+* You bring expertise in handling and analyzing different types of data (multi-modal)
+* You have deep expertise in statistical quality, endpoints, and QC processes
+* You demonstrate respect for cultural differences when interacting with colleagues in the global workplace
+* You are fluent in English and have excellent communication skills
+
+**Preferred:**
+
+* Experience preparing eCTD submissions and working with regulatory authorities
+* Involvement in automation or advanced analytics projects (e.g., AI/ML)
+* Demonstrated ability to coach and mentor colleagues
+* Strong systems thinking and awareness of the broader enterprise data and technology landscape beyond Product Development Data Sciences (PDD)
+* Experience working in cross-functional global study teams
+* Experience with multiple phases of drug development (early and/or late stage)
+* Excellent communication skills, including the ability to influence and translate complex data for non-technical stakeholders
+* You develop innovative programming solutions to solve complex technical challenges, including implementing automation, metadata-driven workflows, or other scalable approaches that improve programming efficiency and reliability
+* You translate statistical analysis plans into executable programming strategies, ensuring analytical intent is accurately reflected in outputs through independent problem-solving and technical rigor
+* You drive standardization and reuse of code and components, contributing to the development of libraries, macros, and frameworks used across programs
+* You ensure inspection readiness and documentation completeness by maintaining traceable programming workflows and audit trails in line with internal procedures and external regulatory expectations
+* You contribute to functional improvement initiatives, such as enhancing tools, templates, and programming best practices, with a focus on elevating quality and operational excellence within the data science function
+* You maintain accountability to the Data Science Team Lead (DSTL) for execution quality, delivery timelines, and adherence to programming standards and strategy
+* You serve as a mentor to less experienced colleagues, promoting best practices in software development, analytics tooling, and scientific collaboration
+
+Relocation benefits are not available for this posting
+
+The expected salary range for this position based on the primary location of California is $149,300 - $277,300. Actual pay will be determined based on experience, qualifications, geographic location, and other job-related factors permitted by law. A discretionary annual bonus may be available based on individual and Company performance. This position also qualifies for the benefits detailed at the link provided below.
+
+Benefits
+
+Genentech is an equal opportunity employer. It is our policy and practice to employ, promote, and otherwise treat any and all employees and applicants on the basis of merit, qualifications, and competence. The company's policy prohibits unlawful discrimination, including but not limited to, discrimination on the basis of Protected Veteran status, individuals with disabilities status, and consistent with all federal, state, or local laws.
+
+If you have a disability and need an accommodation in relation to the online application process, please contact us by completing this form Accommodations for Applicants.","","https://www.indeed.com/cmp/Genentech","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/5d239617c15942aa905dc65f7f0364d6","http://www.gene.com","South San Francisco, CA","10,000+","more than $10B (USD)","Genentech, is a leading biotechnology company that discovers, develops, manufactures and commercializes medicines to treat patients with serious or life-threatening medical conditions.","","","","","",""
+"in-55f7edd661520559","indeed","https://www.indeed.com/viewjob?jk=55f7edd661520559","http://www.indeed.com/job/python-engineer-55f7edd661520559","Python Engineer","Zone IT Solutions","Sunnyvale, CA, US","2025-11-12","fulltime","direct_data","yearly",70000.0,120000.0,"USD",False,"","","","","**Job Description :**
+
+* LLM Inference, Similarity Search and VectorDBs, Guardrails, LangChain) is required.
+* Experience with PyTorch, HF Transformers is optional.
+* Ability to communicate thoughts and ideas and work independently is critical.Having experience with Front End development using React is a plus but is optiona
+* lExperience developing AI and ML algorithms or technologies (e.g. LLM Inference,
+* Similarity Search and VectorDBs, Guardrails, LangChain) is required.
+* Experience with PyTorch, HF Transformers is optional.
+* Ability to communicate thoughts and ideas and work independently is critical.
+* Having experience with Front End development using React is a plus but is optional.
+
+**Location:** Sunnyvale, CA
+
+**Job Function:** TECHNOLOGY
+
+**Role:** Engineer
+
+**Desired Skills:** Python
+
+Job Type: Full-time
+
+Pay: $70,000.00 - $120,000.00 per year
+
+Benefits:
+
+* 401(k)
+* 401(k) matching
+* Employee assistance program
+* Employee discount
+* Flexible schedule
+* Health insurance
+* Life insurance
+* Paid time off
+* Parental leave
+* Professional development assistance
+* Referral program
+* Retirement plan
+
+Application Question(s):
+
+* Are you interested for W2 / Permanent opportunities ?
+* Are you holding Green Card, GCEAD or US Citizenship ?
+
+Location:
+
+* Sunnyvale, CA 94089 (Preferred)
+
+Work Location: In person","","https://www.indeed.com/cmp/Zone-IT-Solutions-1","","https://www.zoneitsolutions.com","Melbourne","11 to 50","","","","","","","",""
+"in-6aec579b2cdcc5b8","indeed","https://www.indeed.com/viewjob?jk=6aec579b2cdcc5b8","https://www.tesla.com/careers/search/job/255664?source=Indeed","Software Engineer, ML Inference Compiler & Deployment, Pre-Silicon","Tesla","Palo Alto, CA, US","2025-11-12","fulltime","direct_data","yearly",132000.0,330000.0,"USD",False,"","","","","**What to Expect**
+
+As a Software Engineer within our Autonomy teams, you will contribute to one of the most advanced and widely deployed AI Platforms in the world for Autopilot and our Humanoid Robot, Optimus.
+
+In this role, you will be responsible for developing and maintaining a compiler toolchain to support pre-silicon development, enabling efficient compilation and optimization of neural networks for Tesla's next generation of custom hardware accelerators. You will collaborate closely with AI Engineers, Hardware Engineers, and cross-functional teams to build out the full inference stack, ensuring maximum performance extraction from our hardware through simulation and emulation in pre-silicon environments.
+
+The inference stack development is purpose-driven: deployment and analysis of production models inform the team's direction, and the team's work immediately impacts performance and the ability to deploy more and more complex models. With a cutting-edge co-designed MLIR compiler and runtime architecture, and full control of the hardware, the compiler has access to traditionally unavailable features that can be leveraged via novel compilation approaches to generate higher performance models, even in pre-silicon stages.
+
+ **What You'll Do**
+
+* Write, debug, and maintain robust software for the Autopilot and Humanoid robot AI inference stack, with a focus on toolchain infrastructure for pre-silicon support
+* Work with AI and HW teams to enable efficient compilation, simulation/emulation of AI models on next generation hardware architectures
+* Bring up compiler backends for future versions of Tesla hardware accelerators, including presilicon validation through emulation and simulation tools
+* Focus on advanced compiler algorithms (heterogeneous scheduling, accelerator instruction scheduling, memory placement, etc.) tailored for custom ASICs
+* Keep up-to-date and collaborate with the ML/compiler community to ensure the stack remains compatible with the latest developments
+
+  
+**What You'll Bring**
+
+* Strong familiarity with CPU/GPU/ASICs
+* Experience with pre-silicon workflows, including hardware emulation and simulation
+* Proficient C/C++ programming C/C++ including modern C/C++ (C++14/17/20)
+* Basic Python proficiency
+* Prior experience working with compilers, with a focus on middle and backend. Experience with ML compilers and frameworks is a plus (e.g. MLIR, XLA, TensorRT, LLVM, JAX, TVM)
+* Degree in Engineering, Computer Science, or equivalent in experience and evidence of exceptional ability
+
+  
+**Compensation and Benefits**
+
+Benefits
+
+Along with competitive pay, as a full-time Tesla employee, you are eligible for the following benefits at day 1 of hire:
+
+* Aetna PPO and HSA plans > 2 medical plan options with $0 payroll deduction
+* Family-building, fertility, adoption and surrogacy benefits
+* Dental (including orthodontic coverage) and vision plans, both have options with a $0 paycheck contribution
+* Company Paid (Health Savings Account) HSA Contribution when enrolled in the High Deductible Aetna medical plan with HSA
+* Healthcare and Dependent Care Flexible Spending Accounts (FSA)
+* 401(k) with employer match, Employee Stock Purchase Plans, and other financial benefits
+* Company paid Basic Life, AD&D, short-term and long-term disability insurance
+* Employee Assistance Program
+* Sick and Vacation time (Flex time for salary positions), and Paid Holidays
+* Back-up childcare and parenting support resources
+* Voluntary benefits to include: critical illness, hospital indemnity, accident insurance, theft & legal services, and pet insurance
+* Weight Loss and Tobacco Cessation Programs
+* Tesla Babies program
+* Commuter benefits
+* Employee discounts and perks program
+
+Expected Compensation
+
+$132,000 - $330,000/annual salary + cash and stock awards + benefits
+
+Pay offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. The total compensation package for this position may also include other elements dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.
+
+  
+Tesla is an Equal Opportunity / Affirmative Action employer committed to diversity in the workplace. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, age, national origin, disability, protected veteran status, gender identity or any other factor protected by applicable federal, state or local laws.  
+  
+Tesla is also committed to working with and providing reasonable accommodations to individuals with disabilities. Please let your recruiter know if you need an accommodation at any point during the interview process.","Industrial Manufacturing","https://www.indeed.com/cmp/Tesla","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/5e42be6c7dd264b60310b59afb8a3c48","https://www.tesla.com","1 Tesla Road Austin, TX 78725","10,000+","$5B to $10B (USD)","Tesla is accelerating the world’s transition to sustainable energy.","","","","","",""
+"in-f1a0874f4436daf9","indeed","https://www.indeed.com/viewjob?jk=f1a0874f4436daf9","https://www.tesla.com/careers/search/job/255680?source=Indeed","Internship, Machine Learning Engineer, Data Engineering & Analytics (Winter/Spring 2026)","Tesla","Fremont, CA, US","2025-11-12","parttime, fulltime, internship","direct_data","hourly",40.0,56.0,"USD",False,"","","","","**What to Expect**
+
+Consider before submitting an application:
+
+This position is expected to start around January 2026 and continue through the Winter/Spring term (ending approximately May 2026) or continuing into Summer 2026 if available and there is an opportunity to do so. We ask for a minimum of 12 weeks, full-time and on-site, for most internships. Our internship program is for students who are actively enrolled in an academic program. Recent graduates seeking employment after graduation and not returning to school should apply for full-time positions, not internships.
+
+International Students: If your work authorization is through CPT, please consult your school on your ability to work 40 hours per week before applying. You must be able to work 40 hours per week on-site. Many students will be limited to part-time during the academic year.
+
+About the Team
+
+The Data Engineering team is building a state-of-the- art analytics platform for business and operation intelligence. At Tesla, we have enormous amounts of data and we want to give meaning to it and help business users to make data driven decisions. Our platform will allow users to answer ""what"", ""when"" and ""how"" questions as well as allow them to ask ""what if?”. Interns will help design, develop, maintain and support our Enterprise Data Warehouse & BI platform within Tesla. This position offers a unique opportunity to impact to the entire organization by creating a data driven culture.
+
+ **What You'll Do**
+
+* Work with ML team and various other data scientists to create highly scalable API services that's based on ML and statistic models
+* Influence API design and implementation for model inference services, ensuring scalable, reliable, and efficient integration of machine learning models into production systems
+* Find new ways to improve in-house batch processing framework and workflow orchestration
+* Work closely with other teams from across the organization and help them get end-to-end deployment on existing infra and to serve their model for real-time business use-cases
+* Learn and execute on best practices in ML modeling, handling, and usage in an enterprise setting
+
+  
+**What You'll Bring**
+
+* Currently pursuing a degree in Computer Science, Engineering or a related field of study and graduating between 2026-2027
+* Able to work on site in Fremont, CA
+* Prior academic training in Software Engineering with a focus on building and scaling batch and real-time infra
+* Strong knowledge of Python, Airflow and SQL and comfort with data wrangling
+* You have done production level model deployments and push a docker image to a API to serve ML models
+* Transformer/VLM/LLM, CNNs, residual networks, GAN, clustering, sequence models) and frameworks/libraries (e.g., Tensorflow, PyTorch, Scikit-learn, Jax)
+* Excellent experience in deployment of machine learning models in production environments, particularly in nlp/video/media-focused applications.
+
+  
+**Compensation and Benefits**
+
+Benefits
+
+As a full-time Tesla Intern, you will be eligible for:
+
+* Aetna PPO and HSA plans > 2 medical plan options with $0 payroll deduction
+* Family-building, fertility, adoption and surrogacy benefits
+* Dental (including orthodontic coverage) and vision plans. Both have an option with a $0 payroll contribution
+* Company Paid (Health Savings Account) HSA Contribution when enrolled in the High Deductible Medical Plan with HSA
+* Healthcare and Dependent Care Flexible Spending Accounts (FSA)
+* 401(k), Employee Stock Purchase Plans, and other financial benefits
+* Company Paid Basic Life, AD&D, and short-term disability insurance
+* Employee Assistance Program
+* Sick time after 90 days of employment and Paid Holidays
+* Back-up childcare and parenting support resources
+* Voluntary benefits to include: critical illness, hospital indemnity, accident insurance, theft & legal services, and pet insurance
+* Commuter benefits
+* Employee discounts and perks program
+
+Expected Compensation
+
+$40.00 - $56.00/hour + benefits
+
+Pay offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. The total compensation package for this position may also include other elements dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.
+
+  
+Tesla is an Equal Opportunity / Affirmative Action employer committed to diversity in the workplace. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, age, national origin, disability, protected veteran status, gender identity or any other factor protected by applicable federal, state or local laws.  
+  
+Tesla is also committed to working with and providing reasonable accommodations to individuals with disabilities. Please let your recruiter know if you need an accommodation at any point during the interview process.","Industrial Manufacturing","https://www.indeed.com/cmp/Tesla","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/5e42be6c7dd264b60310b59afb8a3c48","https://www.tesla.com","1 Tesla Road Austin, TX 78725","10,000+","$5B to $10B (USD)","Tesla is accelerating the world’s transition to sustainable energy.","","","","","",""
+"in-5a2bbe129129f4dd","indeed","https://www.indeed.com/viewjob?jk=5a2bbe129129f4dd","https://www.tesla.com/careers/search/job/255616?source=Indeed","Internship, Integration Engineer, Factory Software (Winter/Spring 2026)","Tesla","Fremont, CA, US","2025-11-12","parttime, fulltime, internship","direct_data","hourly",33.0,47.0,"USD",False,"","","","","**What to Expect**
+
+Consider before submitting an application:
+
+This position is expected to start around January 2026 and continue through the Winter/Spring term (ending approximately May 2026) or continuing into Summer 2026 if available and there is an opportunity to do so. We ask for a minimum of 12 weeks, full-time and on-site, for most internships. Our internship program is for students who are actively enrolled in an academic program. Recent graduates seeking employment after graduation and not returning to school should apply for full-time positions, not internships.
+
+International Students: If your work authorization is through CPT, please consult your school on your ability to work 40 hours per week before applying. You must be able to work 40 hours per week on-site. Many students will be limited to part-time during the academic year.
+
+Internship Programs at Tesla
+
+The Internship Recruiting Team is driven by the passion to recognize emerging talent. Our year-round program places the best students in positions that they will grow both technically and personally through their experience working closely with their Manager, Mentor, and team. We are dedicated to providing an experience that allows for the intern to experience life at Tesla by giving them ownership over projects that are critical to their team’s success.
+
+About the Team
+
+Tesla is seeking a highly motivated Integration Engineer Intern to join our Factory Software Team. In this role, you will be responsible for integrating new manufacturing lines with our homegrown Factory, Warehouse, and ERP systems and providing ongoing support to ensure their smooth daily operation. You will work closely with cross-functional teams to drive system integration projects and troubleshoot production issues to maintain the operational health of our systems. This role requires a unique blend of technical skills, including system integration knowledge, real-time issue resolution, and user support. You will work in a fast-paced environment and need to be flexible in managing both long-term projects and daily operational support for our users. This position will be based in Fremont, CA.
+
+ **What You'll Do**
+
+* Drive team initiatives by implementing and supporting the integration of new manufacturing lines with our Factory, Warehouse, and ERP systems
+* Collaborate with software developers, product managers, and system users to ensure seamless integration of new software features and capabilities
+* Support daily operations by troubleshooting and resolving user issues across Tesla factories, including handling support tickets related to factory software systems
+* Create workarounds for issues that require immediate solutions, while working towards permanent resolutions
+* Document troubleshooting procedures and provide user training to ensure users can resolve common issues independently
+* Collaborate with cross-functional teams to implement system optimizations, including automation and monitoring tools, to improve the efficiency of factory software systems
+
+  
+**What You'll Bring**
+
+* Currently pursuing a degree in Engineering, Computer Science, or a related field with a graduation date between December 2026 - 2027
+* Able to work on site in Fremont, CA
+* Experience in a support or integration engineering role, with a focus on system implementation, troubleshooting and maintenance
+* Experience working with SQL, Python, Go, or other software development languages for automating tasks and integrating systems
+* Solid understanding of integrated systems and their dependencies, particularly within manufacturing and enterprise environments
+* Experience with system integration and working in environments that use MES, WMS, and ERP systems is a strong plus
+* Proficiency in Microsoft Office applications (Excel, Word, PowerPoint) for documentation, reporting, and presentations
+
+  
+**Compensation and Benefits**
+
+Benefits
+
+As a full-time Tesla Intern, you will be eligible for:
+
+* Aetna PPO and HSA plans > 2 medical plan options with $0 payroll deduction
+* Family-building, fertility, adoption and surrogacy benefits
+* Dental (including orthodontic coverage) and vision plans. Both have an option with a $0 payroll contribution
+* Company Paid (Health Savings Account) HSA Contribution when enrolled in the High Deductible Medical Plan with HSA
+* Healthcare and Dependent Care Flexible Spending Accounts (FSA)
+* 401(k), Employee Stock Purchase Plans, and other financial benefits
+* Company Paid Basic Life, AD&D, and short-term disability insurance
+* Employee Assistance Program
+* Sick time after 90 days of employment and Paid Holidays
+* Back-up childcare and parenting support resources
+* Voluntary benefits to include: critical illness, hospital indemnity, accident insurance, theft & legal services, and pet insurance
+* Commuter benefits
+* Employee discounts and perks program
+
+Expected Compensation
+
+$33.00 - $47.00/hour + benefits
+
+Pay offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. The total compensation package for this position may also include other elements dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.
+
+  
+Tesla is an Equal Opportunity / Affirmative Action employer committed to diversity in the workplace. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, age, national origin, disability, protected veteran status, gender identity or any other factor protected by applicable federal, state or local laws.  
+  
+Tesla is also committed to working with and providing reasonable accommodations to individuals with disabilities. Please let your recruiter know if you need an accommodation at any point during the interview process.","Industrial Manufacturing","https://www.indeed.com/cmp/Tesla","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/5e42be6c7dd264b60310b59afb8a3c48","https://www.tesla.com","1 Tesla Road Austin, TX 78725","10,000+","$5B to $10B (USD)","Tesla is accelerating the world’s transition to sustainable energy.","","","","","",""
+"in-12ac534a303657f5","indeed","https://www.indeed.com/viewjob?jk=12ac534a303657f5","https://www.tesla.com/careers/search/job/255615?source=Indeed","Internship, Robotics Modeling & Simulation Engineer, Optimus (Summer 2026)","Tesla","Palo Alto, CA, US","2025-11-12","parttime, fulltime, internship","direct_data","hourly",20.0,55.0,"USD",False,"","","","","**What to Expect**
+
+This position is expected to start May 2026 and continue through summer term (ending approximately August 2026 or later, if available). We ask for a minimum of 12 weeks, full-time (40 hours/week) and on-site, for most internships. Our internship program is for students who are actively enrolled in an academic program. Recent graduates seeking employment after graduation and not returning to school should apply for full-time positions, not internships.
+
+International Students: If your work authorization is through CPT, please consult your school on your ability to work 40 hours per week before applying. You must be able to work 40 hours per week on-site. Many students will be limited to part-time during the academic year.
+
+The Internship Recruiting Team is driven by the passion to recognize and develop emerging talent. Our year-round program places the best students in positions where they will grow technically, professionally, and personally through their experience working closely with their Manager, Mentor, and team. We are dedicated to providing an experience that allows the intern to experience life at Tesla by including them in projects that are critical to their team’s success.
+
+ **What You'll Do**
+
+* Work on the architecture and controls for per-joint level systems
+* Robot modelling architecture
+* Simulator computation efficiency improvement for CPU/GPU architectures
+* Abstraction and conversion of joint mechanisms into rigid body trees
+* Accurate modeling of kinematic chains
+* Conceptual design of biped robots
+* Physics/model representations of joints, limbs
+* Testing of reinforcement learning control policies (simulation and real)
+* Measurement and matching of model and simulation
+* Design and support of new mechanism
+
+  
+**What You'll Bring**
+
+* Currently pursuing a degree in Robotics, Electrical Engineering, Mechatronics, Computer Science, or a related field
+* Experience with controls system development, modeling, and implementation
+* Background in linear systems analysis, stability, and controller design
+* Experience, understanding, and intuition for the physics of basic electric propulsion, motion control systems, and heat transfer
+* Knowledge in control systems including, spring loaded inverted pendulum, zero momentum control, model predictive control, Motor controls, etc. Modeling knowledge in inverse kinematics, inverse/forward dynamics, impedance control, torque control, etc.
+* Knowledge in control systems including spring loaded inverted pendulum, Zero Momentum Control, Model Predictive Control, Motor controls, etc.
+* Modeling knowledge in inverse kinematics, inverse/forward dynamics, impedance control, torque control, etc. Fluent with spatial vector arithmetic
+* Basic design of electric motors & power electronics & control circuits
+* Familiar with gear reduction mechanisms including Planetary, Belt drives, Harmonics Drives, Magnetic Gears, etc.
+* Excellent skills in Python and C++, Matlab/Simulink
+* Experience coding in a collaborative environment (GitHub)
+* Bonus: skills in CAD (CATIA, NX, Inventor, Solid Works, etc.)
+
+  
+**Compensation and Benefits**
+
+Benefits
+
+As a full-time Tesla Intern, you will be eligible for:
+
+* Aetna PPO and HSA plans > 2 medical plan options with $0 payroll deduction
+* Family-building, fertility, adoption and surrogacy benefits
+* Dental (including orthodontic coverage) and vision plans. Both have an option with a $0 payroll contribution
+* Company Paid (Health Savings Account) HSA Contribution when enrolled in the High Deductible Medical Plan with HSA
+* Healthcare and Dependent Care Flexible Spending Accounts (FSA)
+* 401(k), Employee Stock Purchase Plans, and other financial benefits
+* Company Paid Basic Life, AD&D, and short-term disability insurance
+* Employee Assistance Program
+* Sick time after 90 days of employment and Paid Holidays
+* Back-up childcare and parenting support resources
+* Voluntary benefits to include: critical illness, hospital indemnity, accident insurance, theft & legal services, and pet insurance
+* Commuter benefits
+* Employee discounts and perks program
+
+Expected Compensation
+
+$20.00 - $55.00/hour + benefits
+
+Pay offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. The total compensation package for this position may also include other elements dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.
+
+  
+Tesla is an Equal Opportunity / Affirmative Action employer committed to diversity in the workplace. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, age, national origin, disability, protected veteran status, gender identity or any other factor protected by applicable federal, state or local laws.  
+  
+Tesla is also committed to working with and providing reasonable accommodations to individuals with disabilities. Please let your recruiter know if you need an accommodation at any point during the interview process.","Industrial Manufacturing","https://www.indeed.com/cmp/Tesla","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/5e42be6c7dd264b60310b59afb8a3c48","https://www.tesla.com","1 Tesla Road Austin, TX 78725","10,000+","$5B to $10B (USD)","Tesla is accelerating the world’s transition to sustainable energy.","","","","","",""
+"in-6ecdff0c35e88e01","indeed","https://www.indeed.com/viewjob?jk=6ecdff0c35e88e01","https://www.amazon.jobs/jobs/3057305/senior-delivery-consultant-sdtnamerdevops?cmpid=DA_INAD200785B","Senior Delivery Consultant, SDT-NAMER-DevOps","Amazon Web Services","San Francisco, CA, US","2025-08-01","fulltime","direct_data","yearly",138200.0,239000.0,"USD",False,"","","","","**DESCRIPTION**
+---------------
+
+The Amazon Web Services Professional Services (ProServe) team is seeking a skilled Delivery Consultant to join our team at Amazon Web Services (AWS). In this role, you'll work closely with customers to design, implement, and manage AWS solutions that meet their technical requirements and business objectives. You'll be a key player in driving customer success through their cloud journey, providing technical expertise and best practices throughout the project lifecycle.  
+Possessing a deep understanding of AWS products and services, as a Delivery Consultant you will be proficient in architecting complex, scalable, and secure solutions tailored to meet the specific needs of each customer. You’ll work closely with stakeholders to gather requirements, assess current infrastructure, and propose effective migration strategies to AWS. As trusted advisors to our customers, providing guidance on industry trends, emerging technologies, and innovative solutions, you will be responsible for leading the implementation process, ensuring adherence to best practices, optimizing performance, and managing risks throughout the project.
+  
+The AWS Professional Services organization is a global team of experts that help customers realize their desired business outcomes when using the AWS Cloud. We work together with customer teams and the AWS Partner Network (APN) to execute enterprise cloud computing initiatives. Our team provides assistance through a collection of offerings which help customers achieve specific outcomes related to enterprise cloud adoption. We also deliver focused guidance through our global specialty practices, which cover a variety of solutions, technologies, and industries.  
+  
+Key job responsibilities  
+As an experienced technology professional, you will be responsible for:
+  
+1. Designing and implementing complex, scalable, and secure AWS solutions tailored to customer needs  
+2. Providing technical guidance and troubleshooting support throughout project delivery  
+3. Collaborating with stakeholders to gather requirements and propose effective migration strategies  
+4. Acting as a trusted advisor to customers on industry trends and emerging technologies  
+5. Sharing knowledge within the organization through mentoring, training, and creating reusable artifacts  
+  
+About the team  
+About AWS:  
+Diverse Experiences: AWS values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job below, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.  
+Why AWS? Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.  
+Inclusive Team Culture - Here at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (diversity) conferences, inspire us to never stop embracing our uniqueness.  
+Mentorship & Career Growth - We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.  
+Work/Life Balance - We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.
+
+**BASIC QUALIFICATIONS**
+------------------------
+
+* Bachelor's degree in computer science, engineering, mathematics or equivalent
+* 5+ years of experience in cloud architecture and implementation
+* 5+ years of hands-on experience in programming languages such as Python, Ruby, Go, Java, JavaScript, .Net, C++, YAML, JSON, and TypeScript
+* 5+ years of experience developing scalable CI/CD strategies with tools such as Jenkins, Azure DevOps, GitLab, ArgoCD, GitHub Actions, and Harness
+* 5+ years of experience with Infrastructure as Code such as CloudFormation, Terraform, or CDK
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* AWS experience preferred, with proficiency in a wide range of AWS services (e.g., EC2, S3, RDS, Lambda, IAM, VPC, CloudFormation)
+* AWS Professional level certifications (e.g., Solutions Architect Professional, DevOps Engineer Professional) preferred
+* Experience with automation and scripting (e.g., Terraform, Python)
+* Knowledge of security and compliance standards (e.g., HIPAA, GDPR)
+* Strong communication skills with the ability to explain technical concepts to both technical and non-technical audiences
+* Hands on experience with microservice and serverless orchestration architectures such as Kubernetes, EKS, Docker, and Lambda
+* Hands on experience designing and implementing ETL data pipelines (Kafka, Airflow, Spark, Hadoop, Glue), MLOps pipelines (Sagemaker, MLFlow, Kubeflow), or LLMOps pipelines
+
+  
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+  
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+  
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+  
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+  
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $138,200/year in our lowest geographic market up to $239,000/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.","","https://www.indeed.com/cmp/Amazon-Web-Services-05cb4ad1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/744e8603d216350c9c1d21837f2ed7a6","https://aws.amazon.com/careers/why-aws/","Seattle, WA","Decline to state","more than $10B (USD)","Amazon Web Services (AWS) offers the world’s most comprehensive and broadly adopted cloud platform, with over 200 powerful services that enable our customers and our people to make more of an impact. ","","","","","",""
+"in-b4a661c2b23cbeb4","indeed","https://www.indeed.com/viewjob?jk=b4a661c2b23cbeb4","https://www.amazon.jobs/jobs/3062197/senior-delivery-consultant--devops--professional-services?cmpid=DA_INAD200785B","Senior Delivery Consultant - DevOps , Professional Services","Amazon Web Services","San Francisco, CA, US","2025-08-01","fulltime","direct_data","yearly",138200.0,239000.0,"USD",False,"","","","","**DESCRIPTION**
+---------------
+
+The Amazon Web Services Professional Services (ProServe) team is seeking a skilled Delivery Consultant to join our team at Amazon Web Services (AWS). In this role, you'll work closely with customers to design, implement, and manage AWS solutions that meet their technical requirements and business objectives. You'll be a key player in driving customer success through their cloud journey, providing technical expertise and best practices throughout the project lifecycle.  
+Possessing a deep understanding of AWS products and services, as a Delivery Consultant you will be proficient in architecting complex, scalable, and secure solutions tailored to meet the specific needs of each customer. You’ll work closely with stakeholders to gather requirements, assess current infrastructure, and propose effective migration strategies to AWS. As trusted advisors to our customers, providing guidance on industry trends, emerging technologies, and innovative solutions, you will be responsible for leading the implementation process, ensuring adherence to best practices, optimizing performance, and managing risks throughout the project.
+  
+The AWS Professional Services organization is a global team of experts that help customers realize their desired business outcomes when using the AWS Cloud. We work together with customer teams and the AWS Partner Network (APN) to execute enterprise cloud computing initiatives. Our team provides assistance through a collection of offerings which help customers achieve specific outcomes related to enterprise cloud adoption. We also deliver focused guidance through our global specialty practices, which cover a variety of solutions, technologies, and industries.  
+  
+Key job responsibilities  
+As an experienced technology professional, you will be responsible for:
+  
+1. Designing and implementing complex, scalable, and secure AWS solutions tailored to customer needs  
+2. Providing technical guidance and troubleshooting support throughout project delivery  
+3. Collaborating with stakeholders to gather requirements and propose effective migration strategies  
+4. Acting as a trusted advisor to customers on industry trends and emerging technologies  
+5. Sharing knowledge within the organization through mentoring, training, and creating reusable artifacts  
+  
+About the team  
+About AWS:  
+Diverse Experiences: AWS values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job below, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.  
+Why AWS? Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.  
+Inclusive Team Culture - Here at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (diversity) conferences, inspire us to never stop embracing our uniqueness.  
+Mentorship & Career Growth - We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.  
+Work/Life Balance - We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.
+
+**BASIC QUALIFICATIONS**
+------------------------
+
+* 5+ years of experience in cloud architecture and implementation
+* Bachelor's degree in Computer Science, Engineering, related field, or equivalent experience
+* 5+ years of hands-on experience in programming languages such as Python, Ruby, Go, Java, JavaScript, .Net, C++, YAML, JSON, and TypeScript
+* 5+ years of experience developing scalable CI/CD strategies with tools such as Jenkins, Azure DevOps, GitLab, ArgoCD, GitHub Actions, and Harness
+* 5+ years of experience with Infrastructure as Code such as CloudFormation, Terraform, or CDK
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* AWS experience preferred, with proficiency in a wide range of AWS services (e.g., EC2, S3, RDS, Lambda, IAM, VPC, CloudFormation)
+* Experience with automation and scripting (e.g., Terraform, Python)
+* Knowledge of security and compliance standards (e.g., HIPAA, GDPR)
+* Hands on experience with microservice and serverless orchestration architectures such as Kubernetes, EKS, Docker, and Lambda
+* Hands on experience designing and implementing ETL data pipelines (Kafka, Airflow, Spark, Hadoop, Glue), MLOps pipelines (Sagemaker, MLFlow, Kubeflow), or LLMOps pipelines
+
+  
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+  
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+  
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+  
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+  
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $138,200/year in our lowest geographic market up to $239,000/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.","","https://www.indeed.com/cmp/Amazon-Web-Services-05cb4ad1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/744e8603d216350c9c1d21837f2ed7a6","https://aws.amazon.com/careers/why-aws/","Seattle, WA","Decline to state","more than $10B (USD)","Amazon Web Services (AWS) offers the world’s most comprehensive and broadly adopted cloud platform, with over 200 powerful services that enable our customers and our people to make more of an impact. ","","","","","",""
+"in-85d7b2769064a486","indeed","https://www.indeed.com/viewjob?jk=85d7b2769064a486","https://www.amazon.jobs/jobs/3062184/senior-delivery-consultant--devops--professional-services?cmpid=DA_INAD200785B","Senior Delivery Consultant - DevOps , Professional Services","Amazon Web Services","San Francisco, CA, US","2025-07-22","fulltime","direct_data","yearly",138200.0,239000.0,"USD",False,"","","","","**DESCRIPTION**
+---------------
+
+The Amazon Web Services Professional Services (ProServe) team is seeking a skilled Delivery Consultant to join our team at Amazon Web Services (AWS). In this role, you'll work closely with customers to design, implement, and manage AWS solutions that meet their technical requirements and business objectives. You'll be a key player in driving customer success through their cloud journey, providing technical expertise and best practices throughout the project lifecycle.  
+Possessing a deep understanding of AWS products and services, as a Delivery Consultant you will be proficient in architecting complex, scalable, and secure solutions tailored to meet the specific needs of each customer. You’ll work closely with stakeholders to gather requirements, assess current infrastructure, and propose effective migration strategies to AWS. As trusted advisors to our customers, providing guidance on industry trends, emerging technologies, and innovative solutions, you will be responsible for leading the implementation process, ensuring adherence to best practices, optimizing performance, and managing risks throughout the project.
+  
+The AWS Professional Services organization is a global team of experts that help customers realize their desired business outcomes when using the AWS Cloud. We work together with customer teams and the AWS Partner Network (APN) to execute enterprise cloud computing initiatives. Our team provides assistance through a collection of offerings which help customers achieve specific outcomes related to enterprise cloud adoption. We also deliver focused guidance through our global specialty practices, which cover a variety of solutions, technologies, and industries.  
+  
+Key job responsibilities  
+As an experienced technology professional, you will be responsible for:
+  
+1. Designing and implementing complex, scalable, and secure AWS solutions tailored to customer needs  
+2. Providing technical guidance and troubleshooting support throughout project delivery  
+3. Collaborating with stakeholders to gather requirements and propose effective migration strategies  
+4. Acting as a trusted advisor to customers on industry trends and emerging technologies  
+5. Sharing knowledge within the organization through mentoring, training, and creating reusable artifacts  
+  
+About the team  
+About AWS:  
+Diverse Experiences: AWS values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job below, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.  
+Why AWS? Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.  
+Inclusive Team Culture - Here at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (diversity) conferences, inspire us to never stop embracing our uniqueness.  
+Mentorship & Career Growth - We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.  
+Work/Life Balance - We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.
+
+**BASIC QUALIFICATIONS**
+------------------------
+
+* 5+ years of experience in cloud architecture and implementation
+* Bachelor's degree in Computer Science, Engineering, related field, or equivalent experience
+* 6+ years of hands-on experience in programming languages such as Python, Ruby, Go, Java, JavaScript, .Net, C++, YAML, JSON, and TypeScript
+* 5+ years of experience developing scalable CI/CD strategies with tools such as Jenkins, Azure DevOps, GitLab, ArgoCD, GitHub Actions, and Harness
+* 5+ years of experience with Infrastructure as Code such as CloudFormation, Terraform, or CDK
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* AWS experience preferred, with proficiency in a wide range of AWS services (e.g., EC2, S3, RDS, Lambda, IAM, VPC, CloudFormation)
+* Experience with automation and scripting (e.g., Terraform, Python)
+* Knowledge of security and compliance standards (e.g., HIPAA, GDPR)
+* Hands on experience with microservice and serverless orchestration architectures such as Kubernetes, EKS, Docker, and Lambda
+* Hands on experience designing and implementing ETL data pipelines (Kafka, Airflow, Spark, Hadoop, Glue), MLOps pipelines (Sagemaker, MLFlow, Kubeflow), or LLMOps pipelines
+
+  
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+  
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+  
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+  
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+  
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $138,200/year in our lowest geographic market up to $239,000/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.","","https://www.indeed.com/cmp/Amazon-Web-Services-05cb4ad1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/744e8603d216350c9c1d21837f2ed7a6","https://aws.amazon.com/careers/why-aws/","Seattle, WA","Decline to state","more than $10B (USD)","Amazon Web Services (AWS) offers the world’s most comprehensive and broadly adopted cloud platform, with over 200 powerful services that enable our customers and our people to make more of an impact. ","","","","","",""
+"in-1b70e29d1a3fad82","indeed","https://www.indeed.com/viewjob?jk=1b70e29d1a3fad82","https://www.amazon.jobs/jobs/3035882/senior-delivery-consultant--devops--professional-services?cmpid=DA_INAD200785B","Senior Delivery Consultant - DevOps , Professional Services","Amazon Web Services","San Francisco, CA, US","2025-07-16","fulltime","direct_data","yearly",138200.0,239000.0,"USD",False,"","","","","**DESCRIPTION**
+---------------
+
+The Amazon Web Services Professional Services (ProServe) team is seeking a skilled Delivery Consultant to join our team at Amazon Web Services (AWS). In this role, you'll work closely with customers to design, implement, and manage AWS solutions that meet their technical requirements and business objectives. You'll be a key player in driving customer success through their cloud journey, providing technical expertise and best practices throughout the project lifecycle.  
+Possessing a deep understanding of AWS products and services, as a Delivery Consultant you will be proficient in architecting complex, scalable, and secure solutions tailored to meet the specific needs of each customer. You’ll work closely with stakeholders to gather requirements, assess current infrastructure, and propose effective migration strategies to AWS. As trusted advisors to our customers, providing guidance on industry trends, emerging technologies, and innovative solutions, you will be responsible for leading the implementation process, ensuring adherence to best practices, optimizing performance, and managing risks throughout the project.
+  
+The AWS Professional Services organization is a global team of experts that help customers realize their desired business outcomes when using the AWS Cloud. We work together with customer teams and the AWS Partner Network (APN) to execute enterprise cloud computing initiatives. Our team provides assistance through a collection of offerings which help customers achieve specific outcomes related to enterprise cloud adoption. We also deliver focused guidance through our global specialty practices, which cover a variety of solutions, technologies, and industries.  
+  
+Key job responsibilities  
+As an experienced technology professional, you will be responsible for:
+  
+1. Designing and implementing complex, scalable, and secure AWS solutions tailored to customer needs  
+2. Providing technical guidance and troubleshooting support throughout project delivery  
+3. Collaborating with stakeholders to gather requirements and propose effective migration strategies  
+4. Acting as a trusted advisor to customers on industry trends and emerging technologies  
+5. Sharing knowledge within the organization through mentoring, training, and creating reusable artifacts  
+  
+About the team  
+About AWS:  
+Diverse Experiences: AWS values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job below, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.  
+Why AWS? Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.  
+Inclusive Team Culture - Here at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (diversity) conferences, inspire us to never stop embracing our uniqueness.  
+Mentorship & Career Growth - We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.  
+Work/Life Balance - We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.
+
+**BASIC QUALIFICATIONS**
+------------------------
+
+* 5+ years of experience in cloud architecture and implementation
+* Bachelor's degree in Computer Science, Engineering, related field, or equivalent experience
+* 6+ years of hands-on experience in programming languages such as Python, Ruby, Go, Java, JavaScript, .Net, C++, YAML, JSON, and TypeScript
+* 5+ years of experience developing scalable CI/CD strategies with tools such as Jenkins, Azure DevOps, GitLab, ArgoCD, GitHub Actions, and Harness
+* 5+ years of experience with Infrastructure as Code such as CloudFormation, Terraform, or CDK
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* AWS experience preferred, with proficiency in a wide range of AWS services (e.g., EC2, S3, RDS, Lambda, IAM, VPC, CloudFormation)
+* Experience with automation and scripting (e.g., Terraform, Python)
+* Knowledge of security and compliance standards (e.g., HIPAA, GDPR)
+* Hands on experience with microservice and serverless orchestration architectures such as Kubernetes, EKS, Docker, and Lambda
+* Hands on experience designing and implementing ETL data pipelines (Kafka, Airflow, Spark, Hadoop, Glue), MLOps pipelines (Sagemaker, MLFlow, Kubeflow), or LLMOps pipelines
+
+  
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+  
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+  
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+  
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+  
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $138,200/year in our lowest geographic market up to $239,000/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.","","https://www.indeed.com/cmp/Amazon-Web-Services-05cb4ad1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/744e8603d216350c9c1d21837f2ed7a6","https://aws.amazon.com/careers/why-aws/","Seattle, WA","Decline to state","more than $10B (USD)","Amazon Web Services (AWS) offers the world’s most comprehensive and broadly adopted cloud platform, with over 200 powerful services that enable our customers and our people to make more of an impact. ","","","","","",""
+"in-c29fa366905d38eb","indeed","https://www.indeed.com/viewjob?jk=c29fa366905d38eb","https://www.amazon.jobs/jobs/3020911/software-engineer?cmpid=DA_INAD200785B","Software Engineer","Amazon.com","San Francisco, CA, US","2025-06-27","fulltime","direct_data","yearly",99500.0,200000.0,"USD",False,"","","","","**DESCRIPTION**
+---------------
+
+If you are interested in this position, please apply on Twitch's Career site https://www.twitch.tv/jobs/en/  
+  
+About Us:  
+  
+Twitch is the world’s biggest live streaming service, with global communities built around gaming, entertainment, music, sports, cooking, and more. It is where thousands of communities come together for whatever, every day.  
+We’re about community, inside and out. You’ll find coworkers who are eager to team up, collaborate, and smash (or elegantly solve) problems together. We’re on a quest to empower live communities, so if this sounds good to you, see what we’re up to on LinkedIn and X, and discover the projects we’re solving on our Blog. Be sure to explore our Interviewing Guide to learn how to ace our interview process.  
+  
+About the Role  
+  
+As a Software Engineer on the On Demand Products team, you'll build and maintain the interactive experiences that millions of creators and viewers use daily on Twitch. Working closely with experienced engineers, you'll develop your full stack capabilities while focusing on creating responsive, performant products.  
+  
+You can work from San Francisco, CA; Seattle, WA; or New York City, NY!  
+  
+  
+You Will  
+  
+
+* Build and maintain scalable frontend features using TypeScript and React that power Twitch’s VOD and Clips features.
+
+  
+
+* Collaborate with the team to design and implement Twirp APIs and backend services in Golang
+
+  
+
+* Drive frontend best practices including accessibility, performance, and testing methodologies
+
+  
+
+* Work closely with Product, Design, and other engineering teams to deliver exceptional user experiences
+
+  
+Perks  
+
+* Medical, Dental, Vision & Disability Insurance
+* 401(k)
+* Maternity & Parental Leave
+* Flexible PTO
+* Amazon Employee Discount
+
+**BASIC QUALIFICATIONS**
+------------------------
+
+* Bachelor's degree in Computer Science or related field, or equivalent industry experience
+* Demonstrated ability to write clean, well-tested, and maintainable code
+* Understanding of web fundamentals including HTML5, CSS3, and RESTful APIs
+* Experience with software development fundamentals, data structures, and algorithms
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* Strong foundation in modern JavaScript/TypeScript development and React ecosystems
+* Experience with large-scale frontend applications and state management
+* Experience with large-scale frontend applications and state management
+* Knowledge of AWS services and cloud infrastructure
+
+  
+Twitch is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+  
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+  
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+  
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+  
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $99,500/year in our lowest geographic market up to $200,000/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.","Internet And Software","https://www.indeed.com/cmp/Amazon.com","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3e9d43f5c277de169808abdcaf49ba2c","https://www.amazon.jobs","440 Terry Ave N, Seattle, WA, United States, Washington","10,000+","more than $10B (USD)","Our mission is to be Earth's most customer-centric company.","","","","","",""
+"in-efb801b3346dd3ff","indeed","https://www.indeed.com/viewjob?jk=efb801b3346dd3ff","https://www.amazon.jobs/jobs/2925690/sr-sde-mla-hardwaresoftware-codesign-annapurna-labs-machine-learning-acceleration?cmpid=DA_INAD200785B","Sr. SDE, MLA hardware/software co-design, Annapurna Labs Machine Learning Acceleration","Amazon Web Services","Cupertino, CA, US","2025-03-12","fulltime","direct_data","yearly",143300.0,247600.0,"USD",False,"","","","","**DESCRIPTION**
+---------------
+
+AWS Utility Computing (UC) provides product innovations — from foundational services such as Amazon’s Simple Storage Service (S3) and Amazon Elastic Compute Cloud (EC2), to consistently released new product innovations that continue to set AWS’s services and features apart in the industry. As a member of the UC organization, you’ll support the development and management of Compute, Database, Storage, Internet of Things (IoT), Platform, and Productivity Apps services in AWS, including support for customers who require specialized security solutions for their cloud services.  
+  
+Custom machine learning chips are at the heart of our Trainium machine learning instances, and we invite you to build them with us!  
+  
+As a senior SDE in the pre-silicon team, you will be responsible for driving the pre-silicon hardware/software co-development for our machine learning chips.  
+  
+You will work with architecture, design and emulation teams to build new silicon functionality.
+  
+  
+You will write bare-metal software to verify the end-to-end functionality of the SoC and the functionality and performance of different subsystems in the SoC.  
+  
+If you have a solid background in embedded software, system development or chip design, come join us!  
+  
+About the team  
+Why AWS
+  
+Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.
+  
+  
+Utility Computing (UC)
+  
+AWS Utility Computing (UC) provides product innovations — from foundational services such as Amazon’s Simple Storage Service (S3) and Amazon Elastic Compute Cloud (EC2), to consistently released new product innovations that continue to set AWS’s services and features apart in the industry. As a member of the UC organization, you’ll support the development and management of Compute, Database, Storage, Internet of Things (IoT), Platform, and Productivity Apps services in AWS, including support for customers who require specialized security solutions for their cloud services.
+  
+  
+Inclusive Team Culture
+  
+Here at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences, inspire us to never stop embracing our uniqueness.
+  
+  
+Work/Life Balance
+  
+We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.
+  
+  
+Mentorship and Career Growth
+  
+We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.
+  
+  
+Diverse Experiences
+  
+Amazon values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.
+
+**BASIC QUALIFICATIONS**
+------------------------
+
+* 5+ YoE in software development
+* Knowledge of HW/SW interfaces and computer architecture
+* Proficiency in programming in C/C++, scripting in Bash/Python
+* Proficiency in data structures and algorithms
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* Knowledge in low level software such as firmware and device drivers
+* Knowledge in SoC architecture
+* Knowledge in IO(PCIE, AXI) , Memory(HBM, DDR), CPU architecture and Interconnects.
+
+  
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+  
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+  
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+  
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $143,300/year in our lowest geographic market up to $247,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.","","https://www.indeed.com/cmp/Amazon-Web-Services-05cb4ad1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/744e8603d216350c9c1d21837f2ed7a6","https://aws.amazon.com/careers/why-aws/","Seattle, WA","Decline to state","more than $10B (USD)","Amazon Web Services (AWS) offers the world’s most comprehensive and broadly adopted cloud platform, with over 200 powerful services that enable our customers and our people to make more of an impact. ","","","","","",""
+"in-4df0c1f249ff473f","indeed","https://www.indeed.com/viewjob?jk=4df0c1f249ff473f","https://www.amazon.jobs/jobs/2921126/sr-software-engineer-aiml-aws-neuron-distributed-training?cmpid=DA_INAD200785B","Sr. Software Engineer- AI/ML, AWS Neuron Distributed Training","Amazon Web Services","Cupertino, CA, US","2025-03-06","fulltime","direct_data","yearly",151300.0,261500.0,"USD",False,"","","","","**DESCRIPTION**
+---------------
+
+Annapurna Labs designs silicon and software that accelerates innovation. Customers choose us to create cloud solutions that solve challenges that were unimaginable a short time ago—even yesterday. Our custom chips, accelerators, and software stacks enable us to take on technical challenges that have never been seen before, and deliver results that help our customers change the world.  
+  
+AWS Neuron is the complete software stack for the AWS Trainium (Trn1/Trn2) and Inferentia (Inf1/Inf2) our cloud-scale Machine Learning accelerators. This role is for a Senior Machine Learning Engineer in the Distribute Training team for AWS Neuron, responsible for development, enablement and performance tuning of a wide variety of ML model families, including massive-scale Large Language Models (LLM) such as GPT and Llama, as well as Stable Diffusion, Vision Transformers (ViT) and many more.  
+  
+The ML Distributed Training team works side by side with chip architects, compiler engineers and runtime engineers to create, build and tune distributed training solutions with Trainium instances. Experience with training these large models using Python is a must. FSDP (Fully-Sharded Data Parallel), Deepspeed, Nemo and other distributed training libraries are central to this and extending all of this for the Neuron based system is key.  
+  
+Key job responsibilities  
+You will lead efforts to build distributed training support into PyTorch and JAX using XLA, the Neuron compiler, and runtime stacks. You will optimize models to achieve peak performance and maximize efficiency on AWS custom silicon, including Trainium and Inferentia, as well as Trn2, Trn1, Inf1, and Inf2 servers. Strong software development skills, the ability to deep dive, work effectively within cross-functional teams, and a solid foundation in Machine Learning are critical for success in this role.  
+  
+About the team  
+Annapurna Labs was a startup company acquired by AWS in 2015, and is now fully integrated. If AWS is an infrastructure company, then think Annapurna Labs as the infrastructure provider of AWS. Our org covers multiple disciplines including silicon engineering, hardware design and verification, software, and operations. AWS Nitro, ENA, EFA, Graviton and F1 EC2 Instances, AWS Neuron, Inferentia and Trainium ML Accelerators, and in storage with scalable NVMe, are some of the products we have delivered, over the last few years.  
+  
+About the team  
+Our team is dedicated to supporting new members. We have a broad mix of experience levels and tenures, and we’re building an environment that celebrates knowledge-sharing and mentorship. Our senior members enjoy one-on-one mentoring and thorough, but kind, code reviews. We care about your career growth and strive to assign projects that help our team members develop your engineering expertise so you feel empowered to take on more complex tasks in the future.  
+  
+Diverse Experiences  
+AWS values diverse experiences. Even if you do not meet all of the qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.  
+  
+About AWS  
+Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.  
+  
+Inclusive Team Culture  
+Here at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences, inspire us to never stop embracing our uniqueness.  
+  
+Work/Life Balance  
+We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.  
+  
+Mentorship & Career Growth  
+We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.
+
+**BASIC QUALIFICATIONS**
+------------------------
+
+* Bachelor's degree in computer science or equivalent
+* 5+ years of non-internship professional software development experience
+* 5+ years of programming with at least one software programming language experience
+* 5+ years of leading design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+* 5+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+* Experience as a mentor, tech lead or leading an engineering team
+* Experience in machine learning, data mining, information retrieval, statistics or natural language processing
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* Master's degree in computer science or equivalent
+* Experience in computer architecture
+* Previous software engineering expertise with Pytorch/Jax/Tensorflow, Distributed libraries and Frameworks, End-to-end Model Training.
+
+  
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+  
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+  
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+  
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $151,300/year in our lowest geographic market up to $261,500/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.","","https://www.indeed.com/cmp/Amazon-Web-Services-05cb4ad1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/744e8603d216350c9c1d21837f2ed7a6","https://aws.amazon.com/careers/why-aws/","Seattle, WA","Decline to state","more than $10B (USD)","Amazon Web Services (AWS) offers the world’s most comprehensive and broadly adopted cloud platform, with over 200 powerful services that enable our customers and our people to make more of an impact. ","","","","","",""
+"in-a734d932f6ebfb08","indeed","https://www.indeed.com/viewjob?jk=a734d932f6ebfb08","https://www.amazon.jobs/jobs/2914306/software-development-engineer-frontier-ai--robotics?cmpid=DA_INAD200785B","Software Development Engineer, Frontier AI & Robotics","Amazon.com","San Francisco, CA, US","2025-02-28","fulltime","direct_data","yearly",129300.0,223600.0,"USD",False,"","","","","**DESCRIPTION**
+---------------
+
+Join the next revolution in robotics at Amazon's Frontier AI & Robotics team, where you'll contribute to breakthrough foundation models run at production scale. As a Software Development Engineer embedded in our science team, you'll be instrumental in transforming novel research into high-performance production systems. You'll collaborate directly with scientists to optimize large-scale transformer architectures for robotics applications, leveraging your expertise in CUDA and TensorRT to achieve unprecedented inference efficiency at Amazon scale.  
+  
+In this role, you'll balance deep technical optimization work with strategic input on model architecture decisions, ensuring our innovative robotics models are designed with performance in mind from the ground up. You'll leverage NVIDIA's acceleration stack and other compilation techniques to tackle ambitious performance targets, working at the intersection of large language models and real-world robotics applications.  
+  
+Key job responsibilities  
+
+* Drive inference optimization strategies for large-scale foundation models using TensorRT, CUDA, and other NVIDIA tools
+* Collaborate closely with scientists to influence model architectures for optimal hardware utilization
+* Design and implement efficient compilation pipelines for complex transformer architectures
+* Develop comprehensive benchmarking frameworks to measure and optimize model performance
+* Build robust monitoring solutions to ensure reliable model serving at scale
+* Explore and evaluate emerging optimization techniques including ONNX Runtime and other ML compilers
+* Maintain high engineering standards through proper testing, documentation, and code review practices
+
+  
+A day in the life  
+
+* Optimize transformer blocks using custom CUDA kernels and TensorRT optimization techniques
+* Partner with scientists to analyze model architectures and propose efficiency improvements
+* Implement and benchmark various optimization strategies for large-scale models
+* Debug performance bottlenecks using NVIDIA profiling tools
+* Participate in technical discussions about new model architectures with the science team
+* Design and maintain performance monitoring systems for production deployment
+* Prototype new acceleration approaches using emerging compilation frameworks
+
+  
+About the team  
+At Frontier AI & Robotics, we're not just advancing robotics – we're reimagining it from the ground up. Our team is building the future of intelligent robotics through frontier foundation models and end-to-end learned systems. We tackle some of the most challenging problems in AI and robotics, from developing sophisticated perception systems to creating adaptive manipulation strategies that work in complex, real-world scenarios.  
+  
+What sets us apart is our unique combination of ambitious research vision and practical impact. We leverage Amazon's massive computational infrastructure and rich real-world datasets to train and deploy state-of-the-art foundation models. Our work spans the full spectrum of robotics intelligence – from multimodal perception using images, videos, and sensor data, to sophisticated manipulation strategies that can handle diverse real-world scenarios. We're building systems that don't just work in the lab, but scale to meet the demands of Amazon's global operations.  
+  
+Join us if you're excited about pushing the boundaries of what's possible in robotics, working with world-class researchers, and seeing your innovations deployed at unprecedented scale.
+
+**BASIC QUALIFICATIONS**
+------------------------
+
+* 3+ years of non-internship professional software development experience
+* 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+* Experience programming with at least one software programming language
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+* Bachelor's degree in computer science or equivalent
+
+  
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+  
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+  
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+  
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+  
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $129,300/year in our lowest geographic market up to $223,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.","Internet And Software","https://www.indeed.com/cmp/Amazon.com","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3e9d43f5c277de169808abdcaf49ba2c","https://www.amazon.jobs","440 Terry Ave N, Seattle, WA, United States, Washington","10,000+","more than $10B (USD)","Our mission is to be Earth's most customer-centric company.","","","","","",""
+"in-f2eebc1333aba0b3","indeed","https://www.indeed.com/viewjob?jk=f2eebc1333aba0b3","https://www.amazon.jobs/jobs/2914307/sr-software-development-engineer-far-frontier-ai--robotics?cmpid=DA_INAD200785B","Sr. Software Development Engineer, FAR (Frontier AI & Robotics)","Amazon.com","San Francisco, CA, US","2025-02-28","fulltime","direct_data","yearly",151300.0,261500.0,"USD",False,"","","","","**DESCRIPTION**
+---------------
+
+Join the next revolution in robotics at Amazon's Frontier AI & Robotics team, where you'll work alongside world-renowned AI pioneers like Pieter Abbeel, Rocky Duan, and Peter Chen to make breakthrough foundation models run at production scale. As a Senior Machine Learning Engineer embedded in our science team, you'll be instrumental in transforming cutting-edge research into high-performance production systems. You'll collaborate directly with scientists to optimize large-scale transformer architectures for robotics applications, leveraging your expertise in CUDA and TensorRT to achieve unprecedented inference efficiency at Amazon scale.  
+In this role, you'll balance deep technical optimization work with strategic input on model architecture decisions, ensuring our innovative robotics models are designed with performance in mind from the ground up. You'll leverage NVIDIA's acceleration stack and other compilation techniques to tackle ambitious performance targets, working at the intersection of large language models and real-world robotics applications.  
+  
+Key job responsibilities  
+
+* Drive inference optimization strategies for large-scale foundation models using TensorRT, CUDA, and other NVIDIA tools
+* Collaborate closely with scientists to influence model architectures for optimal hardware utilization
+* Design and implement efficient compilation pipelines for complex transformer architectures
+* Develop comprehensive benchmarking frameworks to measure and optimize model performance
+* Build robust monitoring solutions to ensure reliable model serving at scale
+* Explore and evaluate emerging optimization techniques including ONNX Runtime and other ML compilers
+* Maintain high engineering standards through proper testing, documentation, and code review practices
+
+  
+A day in the life  
+
+* Optimize transformer blocks using custom CUDA kernels and TensorRT optimization techniques
+* Partner with scientists to analyze model architectures and propose efficiency improvements
+* Implement and benchmark various optimization strategies for large-scale models
+* Debug performance bottlenecks using NVIDIA profiling tools
+* Participate in technical discussions about new model architectures with the science team
+* Design and maintain performance monitoring systems for production deployment
+* Prototype new acceleration approaches using emerging compilation frameworks
+
+  
+About the team  
+At Frontier AI & Robotics, we're not just advancing robotics – we're reimagining it from the ground up. Our team, led by pioneering AI researchers Pieter Abbeel, Rocky Duan, and Peter Chen, is building the future of intelligent robotics through groundbreaking foundation models and end-to-end learned systems. We tackle some of the most challenging problems in AI and robotics, from developing sophisticated perception systems to creating adaptive manipulation strategies that work in complex, real-world scenarios.  
+What sets us apart is our unique combination of ambitious research vision and practical impact. We leverage Amazon's massive computational infrastructure and rich real-world datasets to train and deploy state-of-the-art foundation models. Our work spans the full spectrum of robotics intelligence – from multimodal perception using images, videos, and sensor data, to sophisticated manipulation strategies that can handle diverse real-world scenarios. We're building systems that don't just work in the lab, but scale to meet the demands of Amazon's global operations.  
+Join us if you're excited about pushing the boundaries of what's possible in robotics, working with world-class researchers, and seeing your innovations deployed at unprecedented scale.
+
+**BASIC QUALIFICATIONS**
+------------------------
+
+* Bachelor's degree in computer science or equivalent
+* 5+ years of non-internship professional software development experience
+* 5+ years of programming with at least one software programming language experience
+* 5+ years of leading design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+* Experience as a mentor, tech lead or leading an engineering team
+* Strong expertise in Python, C++ and CUDA programming
+* Experience with TensorRT or similar ML optimization frameworks
+* Track record of optimizing ML models for production
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* Expertise in NVIDIA's ML stack (cuDNN, CUDA Graph, etc.)
+* Experience with ML compilers (ONNX Runtime, TVM, etc.)
+* Experience with transformer model optimization
+* Background in performance profiling and optimization
+* Experience working directly with research teams
+* Track record of building robust monitoring systems
+* Experience with large-scale ML serving systems
+
+  
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+  
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+  
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+  
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+  
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $151,300/year in our lowest geographic market up to $261,500/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.","Internet And Software","https://www.indeed.com/cmp/Amazon.com","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3e9d43f5c277de169808abdcaf49ba2c","https://www.amazon.jobs","440 Terry Ave N, Seattle, WA, United States, Washington","10,000+","more than $10B (USD)","Our mission is to be Earth's most customer-centric company.","","","","","",""
+"in-afb43c44675895b7","indeed","https://www.indeed.com/viewjob?jk=afb43c44675895b7","https://www.amazon.jobs/jobs/2912412/sr-software-engineer-aiml-aws-neuron-distributed-training?cmpid=DA_INAD200785B","Sr. Software Engineer- AI/ML, AWS Neuron Distributed Training","Amazon Web Services","Cupertino, CA, US","2025-02-26","fulltime","direct_data","yearly",151300.0,261500.0,"USD",False,"","","","","**DESCRIPTION**
+---------------
+
+Annapurna Labs designs silicon and software that accelerates innovation. Customers choose us to create cloud solutions that solve challenges that were unimaginable a short time ago—even yesterday. Our custom chips, accelerators, and software stacks enable us to take on technical challenges that have never been seen before, and deliver results that help our customers change the world.  
+  
+AWS Neuron is the complete software stack for the AWS Trainium (Trn1/Trn2) and Inferentia (Inf1/Inf2) our cloud-scale Machine Learning accelerators. This role is for a Senior Machine Learning Engineer in the Distribute Training team for AWS Neuron, responsible for development, enablement and performance tuning of a wide variety of ML model families, including massive-scale Large Language Models (LLM) such as GPT and Llama, as well as Stable Diffusion, Vision Transformers (ViT) and many more.  
+  
+The ML Distributed Training team works side by side with chip architects, compiler engineers and runtime engineers to create, build and tune distributed training solutions with Trainium instances. Experience with training these large models using Python is a must. FSDP (Fully-Sharded Data Parallel), Deepspeed, Nemo and other distributed training libraries are central to this and extending all of this for the Neuron based system is key.  
+  
+Key job responsibilities  
+You will lead efforts to build distributed training support into PyTorch and JAX using XLA, the Neuron compiler, and runtime stacks. You will optimize models to achieve peak performance and maximize efficiency on AWS custom silicon, including Trainium and Inferentia, as well as Trn2, Trn1, Inf1, and Inf2 servers. Strong software development skills, the ability to deep dive, work effectively within cross-functional teams, and a solid foundation in Machine Learning are critical for success in this role.  
+  
+About the team  
+Annapurna Labs was a startup company acquired by AWS in 2015, and is now fully integrated. If AWS is an infrastructure company, then think Annapurna Labs as the infrastructure provider of AWS. Our org covers multiple disciplines including silicon engineering, hardware design and verification, software, and operations. AWS Nitro, ENA, EFA, Graviton and F1 EC2 Instances, AWS Neuron, Inferentia and Trainium ML Accelerators, and in storage with scalable NVMe, are some of the products we have delivered, over the last few years.  
+  
+About the team  
+Our team is dedicated to supporting new members. We have a broad mix of experience levels and tenures, and we’re building an environment that celebrates knowledge-sharing and mentorship. Our senior members enjoy one-on-one mentoring and thorough, but kind, code reviews. We care about your career growth and strive to assign projects that help our team members develop your engineering expertise so you feel empowered to take on more complex tasks in the future.  
+  
+Diverse Experiences  
+AWS values diverse experiences. Even if you do not meet all of the qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.  
+  
+About AWS  
+Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.  
+  
+Inclusive Team Culture  
+Here at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences, inspire us to never stop embracing our uniqueness.  
+  
+Work/Life Balance  
+We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.  
+  
+Mentorship & Career Growth  
+We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.
+
+**BASIC QUALIFICATIONS**
+------------------------
+
+* Bachelor's degree in computer science or equivalent
+* 5+ years of non-internship professional software development experience
+* 5+ years of programming with at least one software programming language experience
+* 5+ years of leading design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+* 5+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+* Experience as a mentor, tech lead or leading an engineering team
+* Experience in machine learning, data mining, information retrieval, statistics or natural language processing
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* Master's degree in computer science or equivalent
+* Experience in computer architecture
+* Previous software engineering expertise with Pytorch/Jax/Tensorflow, Distributed libraries and Frameworks, End-to-end Model Training.
+
+  
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+  
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+  
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+  
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $151,300/year in our lowest geographic market up to $261,500/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.","","https://www.indeed.com/cmp/Amazon-Web-Services-05cb4ad1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/744e8603d216350c9c1d21837f2ed7a6","https://aws.amazon.com/careers/why-aws/","Seattle, WA","Decline to state","more than $10B (USD)","Amazon Web Services (AWS) offers the world’s most comprehensive and broadly adopted cloud platform, with over 200 powerful services that enable our customers and our people to make more of an impact. ","","","","","",""
+"in-c8bca38005365475","indeed","https://www.indeed.com/viewjob?jk=c8bca38005365475","https://www.amazon.jobs/jobs/2873469/software-development-engineer-aws-marketplace?cmpid=DA_INAD200785B","Software Development Engineer, AWS Marketplace","Amazon Web Services","Santa Clara, CA, US","2025-01-14","fulltime","direct_data","yearly",129300.0,223600.0,"USD",False,"","","","","**DESCRIPTION**
+---------------
+
+AWS Sales, Marketing, and Global Services (SMGS) is responsible for driving revenue, adoption, and growth from the largest and fastest growing small- and mid-market accounts to enterprise-level customers including public sector. The AWS Global Support team interacts with leading companies and believes that world-class support is critical to customer success. AWS Support also partners with a global list of customers that are building mission-critical applications on top of AWS services.  
+  
+Come join the AWS Marketplace Team in our mission to change the way enterprise software are bought and sold! AWS Marketplace enables software sellers to reach all AWS customers; and enables software buyers to easily discover, purchase and consume software. Our goals include enriching the platform to support more diverse selection, improving buyer and seller experience and implementing new ideas to add new dimensions to the product. Our vision is to make AWS Marketplace one stop shop for buying and selling software just like Amazon.com is for retail.  
+  
+We are looking for an experienced Software Development Engineer to help the team take AWS Marketplace to the next level. As a Software Development Engineer on the team you will own significant portions of the product and will have significant influence on our strategy by helping define the next wave of product features and system architecture. The systems are complex and there are huge opportunities to work at all levels from the front end user experience, to a set of robust platform services, to system level pieces and everything in between. You should be somebody who enjoys working on complex system software, is customer-centric, and is passionate about building quality software as well as achieving operational excellence.
+  
+  
+The ideal candidate will have a demonstrable track record of success delivering new features or products. This person has thrived and succeeded in delivering high quality technology products/services in a hyper-growth environment where priorities shift fast. They have design and implementation experience, knowledge of web services and protocols, and an in-depth knowledge of distributed systems architectures. Experience with asynchronous workflow systems is a plus.  
+  
+Inclusive Team Culture:  
+Here at AWS, we embrace our differences. We are committed to furthering our culture of inclusion. We have ten employee-led affinity groups, reaching 40,000 employees in over 190 chapters globally. We have innovative benefit offerings, and we host annual and ongoing learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences. Amazon’s culture of inclusion is reinforced within our 14 Leadership Principles, which remind team members to seek diverse perspectives, learn and be curious, and earn trust.  
+  
+Work/Life Balance:  
+Our team also puts a high value on work-life balance. Striking a healthy balance between your personal and professional life is crucial to your happiness and success here, which is why we aren’t focused on how many hours you spend at work or online. Instead, we’re happy to offer a flexible schedule so you can have a more productive and well-balanced life—both in and outside of work. This position involves on-call responsibilities, typically for one week every two months. We don’t like getting paged in the middle of the night or on the weekend, so we work to ensure that our systems are fault tolerant. When we do get paged, we work together to resolve the root cause so that we don’t get paged for the same issue twice.  
+  
+Mentorship & Career Growth:  
+Our team is dedicated to supporting new members. We have a broad mix of experience levels and tenures, and we’re building an environment that celebrates knowledge sharing and mentorship. Our senior members enjoy one-on-one mentoring and thorough, but kind, code reviews. We care about your career growth and strive to assign projects based on what will help each team member develop into a better-rounded engineer and enable them to take on more complex tasks in the future.  
+  
+  
+  
+For more information on Amazon Web Services, please visit http://aws.amazon.com  
+  
+10010  
+  
+About the team  
+Diverse Experiences
+  
+Amazon values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.
+  
+  
+Why AWS
+  
+Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.  
+  
+Work/Life Balance
+  
+We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why flexible work hours and arrangements are part of our culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.
+  
+  
+Inclusive Team Culture
+  
+Here at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences, inspire us to never stop embracing our uniqueness.  
+  
+Mentorship and Career Growth  
+We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.
+
+**BASIC QUALIFICATIONS**
+------------------------
+
+* 3+ years of non-internship professional software development experience
+* 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+* Experience programming with at least one software programming language
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+* Bachelor's degree in computer science or equivalent
+
+  
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+  
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+  
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+  
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $129,300/year in our lowest geographic market up to $223,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.","","https://www.indeed.com/cmp/Amazon-Web-Services-05cb4ad1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/744e8603d216350c9c1d21837f2ed7a6","https://aws.amazon.com/careers/why-aws/","Seattle, WA","Decline to state","more than $10B (USD)","Amazon Web Services (AWS) offers the world’s most comprehensive and broadly adopted cloud platform, with over 200 powerful services that enable our customers and our people to make more of an impact. ","","","","","",""
+"in-fd879e3f882a8d0c","indeed","https://www.indeed.com/viewjob?jk=fd879e3f882a8d0c","https://www.amazon.jobs/jobs/2858379/runtimedriver-software-development-engineer-neuron-runtime?cmpid=DA_INAD200785B","Runtime/Driver Software Development Engineer, Neuron Runtime","Amazon Web Services","Cupertino, CA, US","2024-12-19","fulltime","direct_data","yearly",129300.0,223600.0,"USD",False,"","","","","**DESCRIPTION**
+---------------
+
+At AWS AI our vision is to make deep learning pervasive for everyday developers and to democratize access to cutting edge infrastructure. In order to deliver on that vision, we’ve created innovative software and hardware solutions that make it possible.  
+  
+AWS Neuron SDK is the complete software stack for the AWS Inferentia and Trainium machine learning accelerators designed by Annapurna Labs inside AWS. The Neuron SDK consists of a compiler, runtime, frameworks, and tooling customers need. It’s also preinstalled in AWS Deep Learning AMIs and Deep Learning Containers for customers to quickly get started with running high performance and cost-effective inference and training.  
+  
+This position is for a Software Engineer for the AWS Neuron SDK team with a deep background in Linux and device drivers. Deep knowledge and experience with hardware-based accelerator platforms (such as encryption, TCP offload, storage accelerators and router/switch platforms) and the necessary complexity for the software layers that interact and manage them. Experience implementing high performance software drivers, needed to ensure high throughput from software to hardware, is also a necessity. This engineer will work with the team to define the key interfaces and will develop the runtime stack and driver that manages the accelerator.  
+  
+This is a fast-paced, intellectually challenging position, where you’ll work with thought-leaders in multiple technology areas. You’ll have high standards for yourself and everyone you work with, and you’ll be constantly looking for ways to improve our products' performance, quality and cost.  
+  
+We’re changing an industry, and we want individuals who are ready for this challenge and want to reach beyond what is possible today.  
+  
+About the team  
+\\*\\*Why AWS\\*\\*  
+Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.  
+  
+\\*\\*Utility Computing (UC)\\*\\*  
+Utility Computing (UC) AWS Utility Computing (UC) provides product innovations — from foundational services such as Amazon’s Simple Storage Service (S3) and Amazon Elastic Compute Cloud (EC2), to consistently released new product innovations that continue to set AWS’s services and features apart in the industry. As a member of the UC organization, you’ll support the development and management of Compute, Database, Storage, Internet of Things (Iot), Platform, and Productivity Apps services in AWS, including support for customers who require specialized security solutions for their cloud services.  
+  
+\\*\\*Diverse Experiences\\*\\*  
+Amazon values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.  
+  
+\\*\\*Work/Life Balance\\* \\*  
+We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.
+  
+  
+\\*\\*Inclusive Team Culture\\* \\*  
+Here at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences, inspire us to never stop embracing our uniqueness.  
+  
+\\*\\*Mentorship and Career Growth\\*\\*  
+We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.
+
+**BASIC QUALIFICATIONS**
+------------------------
+
+* 3+ years of non-internship professional software development experience
+* 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+* Experience programming with at least one software programming language
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+* Bachelor's degree in computer science or equivalent
+
+  
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+  
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+  
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+  
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $129,300/year in our lowest geographic market up to $223,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.","","https://www.indeed.com/cmp/Amazon-Web-Services-05cb4ad1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/744e8603d216350c9c1d21837f2ed7a6","https://aws.amazon.com/careers/why-aws/","Seattle, WA","Decline to state","more than $10B (USD)","Amazon Web Services (AWS) offers the world’s most comprehensive and broadly adopted cloud platform, with over 200 powerful services that enable our customers and our people to make more of an impact. ","","","","","",""
+"li-4297642437","linkedin","https://www.linkedin.com/jobs/view/4297642437","","Software Engineer - New Grad","Scale AI","","2025-11-11","","","","","","",False,"","","","","","","https://www.linkedin.com/company/scaleai","","","","","","","","","","","",""
+"li-4204412244","linkedin","https://www.linkedin.com/jobs/view/4204412244","","Software Engineer - Backend","Plaid","San Francisco, CA","2025-11-09","","","","","","",False,"","","","","","","https://www.linkedin.com/company/plaid-","","","","","","","","","","","",""
+"li-4202434314","linkedin","https://www.linkedin.com/jobs/view/4202434314","","Software Engineer 4 - Web Discovery","Netflix","Los Gatos, CA","2025-11-07","","","","","","",False,"","","","","","","https://www.linkedin.com/company/netflix","","","","","","","","","","","",""
+"li-4334158613","linkedin","https://www.linkedin.com/jobs/view/4334158613","","Software Engineer, Fullstack, Early Career","Notion","San Francisco, CA","2025-11-05","","","","","","",False,"","","","","","","https://www.linkedin.com/company/notionhq","","","","","","","","","","","",""
+"li-4294691515","linkedin","https://www.linkedin.com/jobs/view/4294691515","","Software Engineer, New Grad","Stripe","San Francisco, CA","2025-11-05","","","","","","",False,"","","","","","","https://www.linkedin.com/company/stripe","","","","","","","","","","","",""
+"li-4334204262","linkedin","https://www.linkedin.com/jobs/view/4334204262","","Software Engineer 1","Intuit","Mountain View, CA","2025-11-05","","","","","","",False,"","","","","","","https://www.linkedin.com/company/intuit","","","","","","","","","","","",""
+"li-4334376914","linkedin","https://www.linkedin.com/jobs/view/4334376914","","Software Engineer, Search Platform","Notion","San Francisco, CA","2025-11-05","","","","","","",False,"","","","","","","https://www.linkedin.com/company/notionhq","","","","","","","","","","","",""
+"li-4334257797","linkedin","https://www.linkedin.com/jobs/view/4334257797","","Software Engineer, Web Infrastructure","Notion","San Francisco, CA","2025-11-05","","","","","","",False,"","","","","","","https://www.linkedin.com/company/notionhq","","","","","","","","","","","",""
+"li-4334237862","linkedin","https://www.linkedin.com/jobs/view/4334237862","","Software Engineer Intern (Summer 2026)","Notion","San Francisco, CA","2025-11-05","","","","","","",False,"","","","","","","https://www.linkedin.com/company/notionhq","","","","","","","","","","","",""
+"li-4334357268","linkedin","https://www.linkedin.com/jobs/view/4334357268","","Software Engineer, Developer Experience","Notion","San Francisco, CA","2025-11-05","","","","","","",False,"","","","","","","https://www.linkedin.com/company/notionhq","","","","","","","","","","","",""
+"li-4333948404","linkedin","https://www.linkedin.com/jobs/view/4333948404","","Software Engineer 1","Intuit","Mountain View, CA","2025-11-04","","","","","","",False,"","","","","","","https://www.linkedin.com/company/intuit","","","","","","","","","","","",""
+"li-4331789126","linkedin","https://www.linkedin.com/jobs/view/4331789126","","Software Engineer I","Twitch","San Francisco, CA","2025-11-01","","","","","","",False,"","","","","","","https://www.linkedin.com/company/twitch-tv","","","","","","","","","","","",""
+"li-4333582517","linkedin","https://www.linkedin.com/jobs/view/4333582517","","Software Engineer 1","Intuit","Mountain View, CA","2025-11-01","","","","","","",False,"","","","","","","https://www.linkedin.com/company/intuit","","","","","","","","","","","",""
+"li-4290341003","linkedin","https://www.linkedin.com/jobs/view/4290341003","","(New Grad) Software Engineering","Samsara","San Francisco, CA","2025-10-31","","","","","","",False,"","","","","","","https://www.linkedin.com/company/samsara","","","","","","","","","","","",""
+"li-4324776044","linkedin","https://www.linkedin.com/jobs/view/4324776044","","Full Stack Software Engineer (L5) - Internal Tools","Netflix","Los Gatos, CA","2025-10-29","","","","","","",False,"","","","","","","https://www.linkedin.com/company/netflix","","","","","","","","","","","",""
+"li-4319394475","linkedin","https://www.linkedin.com/jobs/view/4319394475","","Software Engineer I, Frontend","Twitch","San Francisco, CA","2025-10-29","","","","","","",False,"","","","","","","https://www.linkedin.com/company/twitch-tv","","","","","","","","","","","",""
+"li-4317707969","linkedin","https://www.linkedin.com/jobs/view/4317707969","","Software Engineer, AI Platform - New Grad","Nuro","Mountain View, CA","2025-10-23","","","","","","",False,"","","","","","","https://www.linkedin.com/company/nuro-inc.","","","","","","","","","","","",""
+"li-4068296788","linkedin","https://www.linkedin.com/jobs/view/4068296788","","Software Engineer - Backend","Ever","San Francisco, CA","2024-11-04","","","","","","",False,"","","","","","","https://www.linkedin.com/company/evercars","","","","","","","","","","","",""
+"li-3958003857","linkedin","https://www.linkedin.com/jobs/view/3958003857","","Software Engineer - Frontend","Ever","San Francisco, CA","2024-06-24","","","","","","",False,"","","","","","","https://www.linkedin.com/company/evercars","","","","","","","","","","","",""
+"li-3958006298","linkedin","https://www.linkedin.com/jobs/view/3958006298","","Software Engineer - Fullstack","Ever","San Francisco, CA","2024-06-24","","","","","","",False,"","","","","","","https://www.linkedin.com/company/evercars","","","","","","","","","","","",""
